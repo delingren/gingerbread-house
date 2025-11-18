@@ -2,18 +2,23 @@
 
 ## Materials and tools
 
-* Red and green PLA filament (door and windows)
-* 2.8mm basswoord boards
+### Equipment
+* 3d printer
+* Laser cutter
+
+### Bill of Materials
+* Red and green filament (door and windows)
+* 1/8" basswoord boards
 * COB LED x 2
 * 22 Ohm resistor x 2
 * USB-C breakout board
 * USB-C cable
-* PVA glue (school glue). Super glue works too.
-* Laser cutter
-* 3d printer
-* Red and green spray paint. Permanent markers or craft pens work too.
-* Double sided tape
-* Hot glue
+
+### Supplies and tools
+* Red and green spray paint. Alternatives: permanent markers, dry erase markers, craft pens, etc. Anything that can color unfinished wood will work.
+* PVA glue (aka school glue or book binding glue). Alternatives: hot glue, super glue, wood glue, B7000, etc. Anything that bonds unfinshed work will work. It does not need to be strong.
+* Double sided tape.
+* Hot glue. Alternatives: super glue. Ideally, we want this to be relatively strong.
 
 ## Laser cutting
 
@@ -33,13 +38,13 @@ You may need to adjust your slicer settings depending on your printer and slicer
 
 ## Assembly
 
-All parts can snap fit together. However, since plywood is not nearly as strong as plastic, I cut the pieces with slightly more gap than I would plastic. The wooden pieces don't fit very snugly. So I rely on applying a smudge of PVA glue to hold the pieces tight.
+All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more gap than I would plastic. As a result, the wooden pieces don't fit snuggly, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the pieces tight.
 
-Step 1: assemble 4 walls on the base and apply glue to inside seams. Take care not to break or split the pieces. Leave it to dry for a few hours.
+Step 1: assemble 4 walls on the base and apply glue to inside seams. Take care not to break or split the pieces. Leave it to cure. The duration depends on your glue. If you are impatient, use super glue or hot glue. But I prefer slow curing glue so that I can make small adjustments while it's curing.
 
-Step 2: use double sided tapes to fasten the circuitry to the base. The lights just need a little bit of tape. The USB-C breakout board needs to sustain the force of plugging and unplugging the cable, so it needs to be securely fastened. Use a few drops of hot glue if desired.
+Step 2: use double sided tapes to fasten the circuitry to the base. The lights just need a little bit of tape since they don't bear any force. The USB-C breakout board needs to sustain the force of plugging and unplugging the cable, so it needs to be securely fastened. Use a few drops of hot glue or super if desired.
 
-Step 3: carefully snap both pieces of the roof to the walls. It requires a little dexterity and patience. Stick your finger into the door and window to hold or jiggle the walls if needed. My experience is that you don't need glue for the roof. The number of tabs and their opposing angles are enough to keep it pretty secure.
+Step 3: carefully snap both pieces of the roof to the walls. It requires a little dexterity and patience. Stick your finger into the door and window to hold or jiggle the walls if needed. My experience is that you don't need glue for the roof. The number of tabs and their opposing angles are enough to keep it pretty secure. I also prefer not using glue so that I can open it up if needed.
 
 Step 4: firmly press the 3d printed door and windows into the walls. They should fit snuglly without using any glue.
 
