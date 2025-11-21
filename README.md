@@ -24,9 +24,9 @@ I am using three colors in the SVGs and mapping them into cutting, marking, and 
 
 | Color | Action | Power | Speed |
 | ----- | ------ | ----- | ----- |
-| $${\color{red}Red}$$ | Cut | 100 | 35 |
-| <span style="color: blue">Blue</span> | Mark | 30 | 50 |
-| <span style="color: green">Green</span> | Engrave | 100 | 50 |
+| ${\color{red}\textsf{Red}}$ | Cut | 100 | 35 |
+| ${\color{blue}\textsf{Blue}}$ | Mark | 30 | 50 |
+| ${\color{green}\textsf{Green}}$ | Engrave | 100 | 50 |
 
 ## 3D printing
 
