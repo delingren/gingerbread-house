@@ -15,11 +15,12 @@
 * 22 Ohm resistor x 2
 * USB-C cable
 
+* PVA glue (aka school glue or book binding glue). Alternatives: hot glue, super glue, wood glue, B7000, etc. Anything that works for paper will work for wood (what is paper but wood?). It does not need to be very strong.
+* Double sided tape.
+
 If you want to give your gingerbread house some colors:
 
 * Red, green, nutmeg spray paints. Alternatives: permanent markers, dry erase markers, craft pens, etc. Anything that can color unfinished wood will work.
-* PVA glue (aka school glue or book binding glue). Alternatives: hot glue, super glue, wood glue, B7000, etc. Anything that works for paper will work for wood (what is paper but wood?). It does not need to be very strong.
-* Double sided tape.
 
 ## Laser cutting
 
