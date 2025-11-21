@@ -24,7 +24,7 @@ I am using three colors in the SVGs and mapping them into cutting, marking, and 
 
 | Color | Action | Power | Speed |
 | ----- | ------ | ----- | ----- |
-| <span style="color: red;">Red</span> | Cut | 100 | 35 |
+| $${\color{red}Red}$$ | Cut | 100 | 35 |
 | <span style="color: blue">Blue</span> | Mark | 30 | 50 |
 | <span style="color: green">Green</span> | Engrave | 100 | 50 |
 
