@@ -1,20 +1,21 @@
 # Gingerbread House
 
 ![lighted](./photos/IMG_1775.jpeg)
-## Materials and tools
 
-### Equipment
+## Tools and Materials
+
+### Tools
 * 3d printer
 * Laser cutter
+* Soldering iron
 
-### Materials and tools
+### Materials
 * Red and green filament (door and windows)
 * 1/8" basswoord boards [Amazon](https://www.amazon.com/dp/B0D91F14Y2)
 * COB LED light [AliExpress](https://www.aliexpress.us/item/3256807134620275.html) | [Amazon](https://www.amazon.com/dp/B07DHB13J4)
 * USB-C breakout board [AliExpress](https://www.aliexpress.us/item/3256809276708466.html) | [Amazon](https://www.amazon.com/dp/B0F2S1K5X8)
 * 22 Ohm resistor x 2
 * USB-C cable
-
 * PVA glue (aka school glue or book binding glue). Alternatives: hot glue, super glue, wood glue, B7000, etc. Anything that works for paper will work for wood (what is paper but wood?). It does not need to be very strong.
 * Double sided tape.
 
@@ -25,6 +26,8 @@ If you want to give your gingerbread house some colors:
 ## Laser cutting
 
 You can download the [SVG file](./template.svg) and directly feed it to your laser cutting software. all pieces are arranged to be cut from a 300x300mm sheet. If your app splits it into two or more jobs, generally you want to engrave before cutting, although it doesn't matter much here.
+
+The SVG fils was created in Inkscape and its structure is well organized and named. The slots are kept as rectangles (instead of converted to paths) so that it's easy to reposition and resize if needed. The 1/8 inch plywood I am using is actually 2.5mm in thickness. If yours is thicker, you need to make small adjustments to the slots. Also remember that if a tab is inserted to a slot at an angle larger or smaller than 90 degrees, you need to enlarge the slot to accommodate for the angle.
 
 I am using three colors in the SVGs and mapping them into cutting, marking, and engraving. The cutter I am using is a *40 Watt Epilog Mini* with a 600x300 mm bed. The following is the settings I am using in VisiCut. You may experiment with these values based your material and laser cutter. The cut setting may also slightly change the dimension of the piece. The deeper the cut, the more material is burned. If the fit is too loose, you may consider lower the power or increase the speed in the cut setting.
 
