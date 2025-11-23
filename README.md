@@ -65,7 +65,7 @@ Step 1: snap the 4 walls together, then carefully insert them into the base. Avo
 
 Step 2: use double sided tapes to fasten the circuitry to the base, aligning the USB port to the opening in the back. The lights just need a little bit of tape since they don't bear any force. The USB-C breakout board needs to sustain the force of plugging and unplugging the cable, so it needs to be securely fastened. Use a few drops of hot glue or super glue if desired.
 
-![circuitry](./photos/IMG_1774.jpeg)
+![circuitry](./photos/IMG_1777.jpeg)
 
 Step 3: carefully snap both pieces of the roof to the walls. It requires a little dexterity and patience. Stick your finger into the door and window to hold or jiggle the walls if needed. I reccommend starting from the two tabs connecting the roof to the wall, and working your way up to the top of the A-frame. My experience is that you don't need glue for the roof. The number of tabs and their opposing angles are enough to keep it pretty secure. I also prefer not using glue so that I can open it up if needed.
 
