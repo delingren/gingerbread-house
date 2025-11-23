@@ -1,6 +1,6 @@
 # Gingerbread House
 
-![lighted](./photos/IMG_1778.jpeg)
+![lighted](./photos/IMG_1781.jpeg)
 
 ## Tools and Materials
 
@@ -61,7 +61,6 @@ I recommend putting all piece together at least once, without applying glue for 
 
 Step 1: snap the 4 walls together, then carefully insert them into the base. Avoid using too much force. If the fitting is too tight, use a file or sandpaper to file off a little woord.  Once it's snug and secure, apply a little glue to bottom seams. Leave it to cure. The duration depends on your glue. If you are impatient, use super glue or hot glue. But I prefer slow curing glue so that I can make small adjustments while it's curing. I also prefer glue with a little flexibility, such as PVA glue.
 
-![walls](./photos/IMG_1766.jpeg)
 ![inserted](./photos/IMG_1769.jpeg)
 
 Step 2: use double sided tapes to fasten the circuitry to the base, aligning the USB port to the opening in the back. The lights just need a little bit of tape since they don't bear any force. The USB-C breakout board needs to sustain the force of plugging and unplugging the cable, so it needs to be securely fastened. Use a few drops of hot glue or super glue if desired.
