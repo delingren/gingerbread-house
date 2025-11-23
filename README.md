@@ -1,6 +1,6 @@
 # Gingerbread House
 
-![lighted](./photos/IMG_1775.jpeg)
+![lighted](./photos/IMG_1778.jpeg)
 
 ## Tools and Materials
 
