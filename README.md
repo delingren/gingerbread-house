@@ -55,7 +55,7 @@ The whole circuitry is soldered onto the USB-C breakout board. The board has two
 
 ![all-pieces](./photos/IMG_1765.jpeg)
 
-All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more gap than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentel when trying to snap piece together. Don't try to force anything.
+All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more gap than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentle when trying to snap piece together. Don't try to force anything.
 
 I recommend putting all piece together at least once, without applying glue for real, before painting them (literally a *dry* run without glue or paint). If you break a piece, at least you didn't waste time painting it. Also, once the pieces have been fitted and disassembled once, it's usually easier the second time.
 
