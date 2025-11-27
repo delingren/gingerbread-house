@@ -55,11 +55,11 @@ The whole circuitry is soldered onto the USB-C breakout board. The board has two
 
 ![all-pieces](./photos/IMG_1765.jpeg)
 
-All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more gap than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentle when trying to snap piece together. Don't try to force anything.
+All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more tolerance than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentle when trying to snap piece together. Don't try to force anything.
 
 I recommend putting all piece together at least once, without applying glue for real, before painting them (literally a *dry* run without glue or paint). If you break a piece, at least you didn't waste time painting it. Also, once the pieces have been fitted and disassembled once, it's usually easier the second time.
 
-Step 1: snap the 4 walls together, then carefully insert them into the base. Avoid using too much force. If the fitting is too tight, use a file or sandpaper to file off a little woord.  Once it's snug and secure, apply a little glue to bottom seams. Leave it to cure. The duration depends on your glue. If you are impatient, use super glue or hot glue. But I prefer slow curing glue so that I can make small adjustments while it's curing. I also prefer glue with a little flexibility, such as PVA glue.
+Step 1: snap the 4 walls together, then carefully insert them into the base. Avoid using too much force. If the fitting is too tight, use a file or sandpaper to file off a little wood around the slots.  Once it's snug and secure, apply a little glue to the seams. Leave it to cure. The duration depends on your glue. If you are impatient, use super glue or hot glue. But I prefer slow curing glue so that I can make small adjustments while it's curing. I also prefer glue with a little flexibility, such as PVA glue.
 
 ![inserted](./photos/IMG_1769.jpeg)
 
@@ -67,11 +67,14 @@ Step 2: use double sided tapes to fasten the circuitry to the base, aligning the
 
 ![circuitry](./photos/IMG_1777.jpeg)
 
-Step 3: carefully snap both pieces of the roof to the walls. It requires a little dexterity and patience. Stick your finger into the door and window to hold or jiggle the walls if needed. I reccommend starting from the two tabs connecting the roof to the wall, and working your way up to the top of the A-frame. My experience is that you don't need glue for the roof. The number of tabs and their opposing angles are enough to keep it pretty secure. I also prefer not using glue so that I can open it up if needed.
+Step 3: carefully snap both pieces of the roof to the walls. It requires a little dexterity and patience. I reccommend starting from the two tabs connecting the roof to the wall, and working your way up to the top of the A-frame. But don't close the pinnacle until you have both pieces in place. 
 
-![roofs](./photos/IMG_1770.jpeg)
+My experience is that you don't need glue for the roof. The number of tabs and their opposing angles are enough to keep it pretty secure. I also prefer not using glue so that I can open it up if needed.
+
 ![roofs-installed](./photos/IMG_1772.jpeg)
 
-Step 4: firmly press the 3d printed door and windows into the walls. Ideally, they won't need any glue to be secured. Otherwise, you would have to undo the last step and apply glue from inside. But once the windows are installed, it's hard to install the roofs.
+Step 4: if your doors and windows fit snuglly without needing glue but don't need too much force to press into the frames, you can install them now. If they are rather finicky to be installed, you might want to do this step earlier. If they are too loose, use a little glue on the inside.
 
-Step 5: cut a few very thin (~2.5mm) strips of double sided tape, put them on the sides of the roofs, then insert the eaves and press them firmly onto the tape. This ensures that they don't fall off on their own. But if needed, you can still easily remove them and open up the roof. You may also not need the tape if they fit very securely.
+Step 5: Insert the eaves onto the roof pieces. If they are too loose, cut a few very thin (~2.5mm) strips of double sided tape, put them on the sides of the roofs to help secure the eaves. Again, I prefer not using glue here.
+
+![eaves-installed](./photos/IMG_1773.jpeg)
