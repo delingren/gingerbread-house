@@ -23,21 +23,16 @@ If you want to give your gingerbread house some colors:
 
 * Red, green, nutmeg spray paints. Alternatives: permanent markers, dry erase markers, craft pens, etc. Anything that can color unfinished wood will work.
 
-## Laser cutting
+## Laser engraving, marking, and cutting
 
-You can download the [SVG file](./template.svg) and directly feed it to your laser cutting software. all pieces are arranged to be cut from a 300x300mm sheet. If your app splits it into two or more jobs, generally you want to engrave before cutting, although it doesn't matter much here.
+I am using three colors in the SVGs and mapping them into cutting, marking, and engraving. The cutter I am using is a *60 Watt Epilog Mini* with a 600x300 mm bed. The engraved graphics don't stand out very well on the ginger colored paint. So, I duplicated the engrave graphics, remove the fill, and marked the outline. It worked very well. The marking should be done *after* the engraving.
 
-The SVG fils was created in Inkscape and its structure is well organized and named. The slots are kept as rectangles (instead of converted to paths) so that it's easy to reposition and resize if needed. The 1/8 inch plywood I am using is actually 2.5mm in thickness. If yours is thicker, you need to make small adjustments to the slots. Also remember that if a tab is inserted to a slot at an angle larger or smaller than 90 degrees, you need to enlarge the slot to accommodate for the angle.
-
-I am using three colors in the SVGs and mapping them into cutting, marking, and engraving. The cutter I am using is a *40 Watt Epilog Mini* with a 600x300 mm bed. The following is the settings I am using in VisiCut. You may experiment with these values based your material and laser cutter. The cut setting may also slightly change the dimension of the piece. The deeper the cut, the more material is burned. If the fit is too loose, you may consider lower the power or increase the speed in the cut setting.
-
-| Color | Action | Power | Speed |
-| ----- | ------ | ----- | ----- |
-| ${\color{red}\textsf{Red}}$ | Cut | 100 | 35 |
-| ${\color{blue}\textsf{Blue}}$ | Mark | 30 | 50 |
-| ${\color{green}\textsf{Green}}$ | Engrave | 100 | 50 |
-
-If you're handy witn an SVG editor, get creative and modify the engravings to your likings.
+| Color | Action | Power | Speed | Note |
+| ----- | ------ | ----- | ----- | ----- |
+| ${\color{green}\textsf{Green}}$ | Engrave | 100 | 100 |
+| ${\color{blue}\textsf{Blue}}$ | Mark | 10 | 100 | engrave outlines
+| ${\color{blue}\textsf{Blue}}$ | Mark | 35 | 100 | shingles
+| ${\color{red}\textsf{Red}}$ | Mark | 100 | 45 |
 
 ## 3D printing
 
