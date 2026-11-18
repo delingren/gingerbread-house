@@ -30,7 +30,7 @@ I am using three colors in the SVGs and mapping them into cutting, marking, and 
 | Color | Action | Power | Speed | Note |
 | ----- | ------ | ----- | ----- | ----- |
 | ${\color{green}\textsf{Green}}$ | Engrave | 100 | 100 |
-| ${\color{blue}\textsf{Blue}}$ | Mark | 10 | 100 | engrave outlines
+| ${\color{blue}\textsf{Blue}}$ | Mark | 20 | 100 | engrave outlines
 | ${\color{blue}\textsf{Blue}}$ | Mark | 35 | 100 | shingles
 | ${\color{red}\textsf{Red}}$ | Mark | 100 | 45 |
 
