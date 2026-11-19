@@ -25,7 +25,9 @@ If you want to give your gingerbread house some colors:
 
 ## Laser engraving, marking, and cutting
 
-I am using three colors in the SVGs and mapping them into cutting, marking, and engraving. The cutter I am using is a *60 Watt Epilog Mini* with a 600x300 mm bed. The engraved graphics don't stand out very well on the ginger colored paint. So, I duplicated the engrave graphics, remove the fill, and marked the outline. It worked very well. The marking should be done *after* the engraving.
+I am using three colors in the SVGs and mapping them into cutting, marking, and engraving. The cutter I am using is a *60 Watt Epilog Mini* with a 600x300 mm bed. In the first version, the engraved graphics didn't stand out very well on the nutmeg colored paint. So, I duplicated the engrave graphics, remove the fill, and marked the outline. It worked very well. The marking should be done *after* the engraving.
+
+I've put all pieces in the [template](template.svg). Since I was making quite a few of them, I spray painted the plywood before engraving and cutting. Engraving is in fact better after painting anyway. Then I sorted the pieces based on the colors and created an svg file for each color containing multiple copies of the pieces. I used red for the roof, green for the eaves, and nutmeg for everything else.
 
 | Color | Action | Power | Speed | Note |
 | ----- | ------ | ----- | ----- | ----- |
@@ -42,7 +44,7 @@ You may need to adjust your slicer settings depending on your printer, filament,
 
 ## Lights
 
-I am using two LEDs in paralell. They are rated 3V 1W. With a 22 Ohm resistor in series, I am getting just about 3V on the LED. But I am only measuring 90 mA. That's only 0.27W. But two are bright enough for this project.
+I am using two LEDs in paralell. They are rated 3V 1W. With a 22 Ohm resistor in series, I am getting just about 3V on the LED. I am only measuring 90 mA. That's only 0.27W. But two are bright enough for this project.
 
 The whole circuitry is soldered onto the USB-C breakout board. The board has two 5.1k resistors for triggering USB PD at 5V. So this works with "smart" chargers too. If you don't need to worry about smart chargers, there are cheaper breakout boards available.
 
@@ -50,9 +52,7 @@ The whole circuitry is soldered onto the USB-C breakout board. The board has two
 
 ![all-pieces](./photos/IMG_1765.jpeg)
 
-All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more tolerance than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentle when trying to snap piece together. Don't try to force anything.
-
-I recommend putting all piece together at least once, without applying glue for real, before painting them (literally a *dry* run without glue or paint). If you break a piece, at least you didn't waste time painting it. Also, once the pieces have been fitted and disassembled once, it's usually easier the second time.
+All parts snap fit together. However, since plywood is not nearly as plastic as, well, plastic, I cut the wooden pieces with slightly more tolerance than I would plastic. As a result, the wooden pieces fit snuggly, but not too tight, otherwise the risk of breaking or splitting is high. So I rely on a smudge of PVA glue to hold the body of the house to the base. Even so, be very gentle when trying to snap pieces together. Don't try to force anything.
 
 Step 1: snap the 4 walls together, then carefully insert them into the base. Avoid using too much force. If the fitting is too tight, use a file or sandpaper to file off a little wood around the slots.  Once it's snug and secure, apply a little glue to the seams. Leave it to cure. The duration depends on your glue. If you are impatient, use super glue or hot glue. But I prefer slow curing glue so that I can make small adjustments while it's curing. I also prefer glue with a little flexibility, such as PVA glue.
 
